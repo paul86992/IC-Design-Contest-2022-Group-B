@@ -12,6 +12,7 @@ The problem of the project can be downloaded from the official website of the IC
 
 題目: 派工機
 
+題目可從IC競賽官網下載
 
 *** tb.v is the testbench provided by official.
 *** JAM.v is the verilog code designed by me.

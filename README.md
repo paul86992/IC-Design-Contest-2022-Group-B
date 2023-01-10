@@ -1,4 +1,4 @@
-# IC-contest-2022-Group-B
+# IC-Design-contest-2022-Group-B
 
 *** Designer: Pang-Yu Lin ***
 
